@@ -10,7 +10,8 @@ Este projeto utiliza técnicas avançadas de **Processamento de Linguagem Natura
 
 ### **Vídeo Explicativo**
 
-Um vídeo detalhando o funcionamento do projeto e os resultados obtidos foi gravado para auxiliar na compreensão das etapas e das decisões tomadas. Você pode assistir ao vídeo através do seguinte link: [Link para o vídeo] https://drive.google.com/file/d/12t5Yq_TQeoiSQNppVH27IL2BaWmdL6bv/view?usp=sharing)
+Um vídeo detalhando o funcionamento do projeto e os resultados obtidos foi gravado para auxiliar na compreensão das etapas e das decisões tomadas. Você pode assistir ao vídeo através do seguinte link: 
+[Link para o vídeo](https://drive.google.com/file/d/12t5Yq_TQeoiSQNppVH27IL2BaWmdL6bv/view?usp=sharing)
 
 ---
 
