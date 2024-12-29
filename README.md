@@ -63,7 +63,7 @@ Este código implementa três abordagens de aprendizado de máquina para classif
 - Um modelo **SVM** é treinado com esses vetores para classificar sentimentos.
 
 ##### **Modelo 2: SVM com Embeddings**
-- Utiliza embeddings pré-treinados (Word2Vec em português).
+- Utiliza embeddings pré-treinados (Word2Vec).
 - Cada texto é convertido para um vetor denso pela média dos vetores das palavras conhecidas.
 - Um modelo **SVM** é treinado com essas representações densas.
 
