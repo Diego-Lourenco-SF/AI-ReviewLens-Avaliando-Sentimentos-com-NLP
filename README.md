@@ -8,6 +8,12 @@ Este projeto utiliza técnicas avançadas de **Processamento de Linguagem Natura
 
 ---
 
+### **Vídeo Explicativo**
+
+Um vídeo detalhando o funcionamento do projeto e os resultados obtidos foi gravado para auxiliar na compreensão das etapas e das decisões tomadas. Você pode assistir ao vídeo através do seguinte link: [Link para o vídeo] https://drive.google.com/file/d/12t5Yq_TQeoiSQNppVH27IL2BaWmdL6bv/view?usp=sharing)
+
+---
+
 ## **Código 1: Bônus (bônus.py)**
 ### **Descrição**
 Este código utiliza o modelo **GPT (gpt-3.5-turbo)** para classificar sentimentos em 500 avaliações de produtos, usando **in-context learning**.
@@ -124,6 +130,7 @@ A base de dados está disponível publicamente no Kaggle: [Amazon Product Review
 A base [skips50](http://nilc.icmc.usp.br/embeddings) é um modelo de embedding de palavras em português, gerado pelo método skip-gram do Word2Vec. Esse modelo foi desenvolvido pelo Núcleo Interinstitucional de Linguística Computacional (NILC), da Universidade de São Paulo (USP), e faz parte do repositório de Word Embeddings específicos para a língua portuguesa.
 
 Word embeddings como o skips50 são amplamente utilizados em tarefas de Processamento de Linguagem Natural (PLN) para representar palavras como vetores densos, capturando relações semânticas e sintáticas entre elas.
+
 ---
 
 Se houver dúvidas ou problemas, entre em contato com o desenvolvedor.
