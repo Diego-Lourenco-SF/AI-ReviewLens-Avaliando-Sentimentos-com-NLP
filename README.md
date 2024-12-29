@@ -118,10 +118,10 @@ Este código implementa três abordagens de aprendizado de máquina para classif
 ---
 
 ## **Link para Download da base de dados Amazon Product Reviews Dataset**
-A base de dados está disponível publicamente no Kaggle: [Amazon Product Reviews Dataset] (https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews/data)
+A base de dados está disponível publicamente no Kaggle: [Amazon Product Reviews Dataset](https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews/data)
 
 ## **Link para Download da base de dados de Embedding**
-A base [skips50] (http://nilc.icmc.usp.br/embeddings) é um modelo de embedding de palavras em português, gerado pelo método skip-gram do Word2Vec. Esse modelo foi desenvolvido pelo Núcleo Interinstitucional de Linguística Computacional (NILC), da Universidade de São Paulo (USP), e faz parte do repositório de Word Embeddings específicos para a língua portuguesa.
+A base [skips50](http://nilc.icmc.usp.br/embeddings) é um modelo de embedding de palavras em português, gerado pelo método skip-gram do Word2Vec. Esse modelo foi desenvolvido pelo Núcleo Interinstitucional de Linguística Computacional (NILC), da Universidade de São Paulo (USP), e faz parte do repositório de Word Embeddings específicos para a língua portuguesa.
 
 Word embeddings como o skips50 são amplamente utilizados em tarefas de Processamento de Linguagem Natural (PLN) para representar palavras como vetores densos, capturando relações semânticas e sintáticas entre elas.
 ---
